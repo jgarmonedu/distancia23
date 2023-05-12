@@ -2,12 +2,12 @@
 /**
  * Script que realiza las operaciones básicas de cálculo matemático: Suma, resta, producto, división
  * @author Javier García Montero
- * @version 1.0.1
+ * @version 1.0.2
  */
 
 /**
  * Esta función realiza la suma de dos números pasados como parámetros
- * @version 1.0.1
+ * @version 1.0.2
  * @link https://es.wikipedia.org/wiki/Adici%C3%B3n_(matem%C3%A1tica)
  * @param integer $num1 primer sumando
  * @param integer $num2 segundo sumando
@@ -19,7 +19,7 @@ function suma ($num1 ,$num2) {
 
 /**
  * Esta función realiza la resta de dos números pasados como parámetros
- * @version 1.0.1
+ * @version 1.0.2
  * @link https://es.wikipedia.org/wiki/Adici%C3%B3n_(matem%C3%A1tica)
  * @param integer $num1 primer numero
  * @param integer $num2 segundo numero a restar
@@ -31,7 +31,7 @@ function resta ($num1, $num2){
 
 /**
  * Esta función realiza el producto de dos números pasados como parámetros
- * @version 1.0.1
+ * @version 1.0.2
  * @link https://es.wikipedia.org/wiki/Multiplicaci%C3%B3n
  * @param integer $num1 primer producto
  * @param integer $num2 segundo producto
@@ -43,7 +43,7 @@ function producto($num1, $num2) {
 
 /**
  * Esta función realiza la división de dos números pasados como parámetros
- * @version 1.0.1
+ * @version 1.0.2
  * @link https://es.wikipedia.org/wiki/Divisi%C3%B3n_(matem%C3%A1tica)
  * @param integer $num1 dividendo
  * @param integer $num2 divisor
